@@ -1,7 +1,7 @@
-<project>
-<modelVersion>4.0.0</modelVersion>
-<groupID>com.demo</groupID>
-<artifactID>app</artifactID>
-<version>1.0</version>
-</project>
 
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.demo</groupId>
+  <artifactId>app</artifactId>
+  <version>1.0</version>
+</project>
